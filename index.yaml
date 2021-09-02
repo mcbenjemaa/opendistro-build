@@ -18,7 +18,6 @@ entries:
     urls:
     - https://github.com/mcbenjemaa/opendistro-build/releases/download/opendistro-es-1.13.3/opendistro-es-1.13.3.tgz
     version: 1.13.3
-    
  opendistro:
   - apiVersion: v1
     appVersion: 1.13.2
